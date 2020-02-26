@@ -1,0 +1,46 @@
+
+
+body {
+background-color: white;
+width:auto;
+height: auto;
+
+}
+.topweb {
+    height: 85px;
+    background-color:  red;
+    display: flex;
+    margin: -10px;
+
+}
+
+.box {
+    width: 20%;
+    height: 50%;
+    background-color:  blue;
+    position: relative;
+    left:62%;
+}
+
+.temp {
+    width: 200px;
+    height: 50%;
+    background-color: green;
+    position: relative;
+    left: 93%;
+    display:flex;
+}
+#partly {
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 10%;
+}
+#number-temp {
+    font-family: "Lato" ;
+    color:white;
+    font-size: 20px;
+    position: relative;
+    left: 20%;
+    bottom: 40%;
+}
